@@ -7,3 +7,4 @@ def display_time(request):
 	return render(request,'timeapp/time.html',context=my_dict)
 
 ''' comment added'''
+'hgftrdtrdfg'
